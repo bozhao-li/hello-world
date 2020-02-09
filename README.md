@@ -1,3 +1,5 @@
+#这是Buka的hello-world项目主页。
+以下内容是自动显示的。
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Andy-Buka/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
