@@ -106,6 +106,15 @@
         <mxCell id="ufLeqFj3SaRQAWVy4F6e-30" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Verifier-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-31" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Comparison-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-32" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Control Token-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="518.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-33" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Data Mixture and Reward/Loss Enhancement&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="569.5" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
