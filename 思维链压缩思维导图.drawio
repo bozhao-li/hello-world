@@ -91,6 +91,21 @@
         <mxCell id="ufLeqFj3SaRQAWVy4F6e-25" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Model averaging&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-26" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Length Reward-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="218.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-27" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Token-Budget-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-28" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Entropy-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="318.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-29" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Confidence-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="369.13" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-30" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Verifier-Based&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
