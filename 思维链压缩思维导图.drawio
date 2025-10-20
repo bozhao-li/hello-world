@@ -115,6 +115,24 @@
         <mxCell id="ufLeqFj3SaRQAWVy4F6e-33" value="&lt;h4 style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Data Mixture and Reward/Loss Enhancement&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="569.5" width="290" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ufLeqFj3SaRQAWVy4F6e-5" target="ufLeqFj3SaRQAWVy4F6e-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="56" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufLeqFj3SaRQAWVy4F6e-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ufLeqFj3SaRQAWVy4F6e-5" target="ufLeqFj3SaRQAWVy4F6e-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="130" as="sourcePoint" />
+            <mxPoint x="580" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
